@@ -1,0 +1,22 @@
+.random ul{
+    background-color:blue;
+    display: flex;
+    flex-direction: row;
+    padding: 2px;
+    float: right;
+    
+}
+
+.random li{
+    list-style-type: none;
+    font-size: 20px;
+    color:black;
+    margin: 15px;
+    text-decoration: none;
+
+   
+}
+.random li:hover{
+    background-color:black;
+    color: chartreuse ;
+}
